@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'aicore_recyclejob'
-repository 'https://github.com/0error-scripts/aicore_recyclejob'
+repository 'https://github.com/aicore-fivem/aicore_recyclejob'
 version '2.1.0'
 
 ox_lib 'locale'
